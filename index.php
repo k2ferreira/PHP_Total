@@ -13,6 +13,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <title>CRUD PHP</title>
+    <p> assistir essa aula também: https://devcontratado.com/blog/php/crud-php-mysql </p>
+    <p> Esse exmplo desse site : https://programadoresdepre.com.br/como-criar-crud-com-php-mysql-e-bootstrap/ </p> </p>
 </head>
 <body>
   
